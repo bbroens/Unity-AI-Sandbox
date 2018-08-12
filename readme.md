@@ -4,5 +4,4 @@
 
 ![Preview](https://i.imgur.com/1PLeu5y.gif)
 
-![Preview](https://i.imgur.com/IoiA59c.gif)
-
+![Preview](https://i.imgur.com/0BIUaUk.gif)
