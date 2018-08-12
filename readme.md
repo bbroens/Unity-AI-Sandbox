@@ -14,7 +14,7 @@ This looks cute, but is more complex than you might think. The fish are aware of
 * Move towards the average heading of the group
 * Steer to avoid crowding the group
 
-Also, when a fish strays too far from the group, it returns to the average centre. The algo has some 'chance' calculations as well to keep it light on cpu.
+Also, when a fish strays too far from the group, it returns to the average centre. The algo has some 'chance' calculations as well to keep it extremely light on cpu.
 
 ![Preview](https://i.imgur.com/0BIUaUk.gif)
 
